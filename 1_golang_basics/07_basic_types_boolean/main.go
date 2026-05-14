@@ -14,7 +14,7 @@ func main() {
 
 	fmt.Println(isLogged,isAdmin, hasSubscription )
 	fmt.Println(canOpenDashboard, canDeletePost  )
-	age := 2
+	age := 25
 
 	isAdult := age > 20
 
