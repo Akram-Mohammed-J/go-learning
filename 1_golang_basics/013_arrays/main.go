@@ -15,8 +15,8 @@ func main() {
  var days[7]string = [7]string {"Monday"}
  fmt.Println(days)	
 
- //
- students  :=[6] string {"Akram", "Aaisha", "Abrar"}
+ //inferred type declaration and initialization
+ students  :=[4] string {"Fouzi","Akram", "Aaisha", "Abrar"}
 
  fmt.Println(students)
 
